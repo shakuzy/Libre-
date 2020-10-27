@@ -1,0 +1,26 @@
+.con{
+    text-align: left;
+    margin: 1%;
+    width: 99%;
+    }
+.input{
+    float: left;
+    width: 95%;
+    margin:1%;
+    margin-left: 2%;
+}
+.label{
+    float: left;
+    width: 10%;
+    text-align: left;
+    margin-left: 1%;
+    text-decoration: wavy;
+    font-size: medium;
+
+}
+.boton{
+    margin: 2%;
+}
+.orden{
+    margin-top: 15%;
+}

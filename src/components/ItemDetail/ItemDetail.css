@@ -1,0 +1,25 @@
+body{
+    background: white;
+}
+
+span{
+display: inline-block;    
+grid: auto;
+align-content: space-around;
+grid-gap: 40px 20px;
+height: 70%;
+width: 30%;
+margin: 1% ;
+    
+}
+
+div {
+    justify-self: center;
+    align-self: center;
+    text-align: center;
+
+    
+}
+div{
+    background-color: white;
+}
