@@ -18,7 +18,7 @@ En cada una de ellas encontraremos los productos por categoria, aqui un ejemplo
 
 ![categoriaproducto](https://user-images.githubusercontent.com/56520398/97484876-19675f00-1938-11eb-84ab-ffa0ca403369.png)
 
-En el carrito si no tenemos nada, nos va a apacer una pantalla en la cual nos invita a seguir comprando y nos redirige al inicio
+En el carrito si no tenemos nada, nos va a aparecer una pantalla en la cual nos invita a seguir comprando y nos redirige al inicio
 
 ![carritovacio](https://user-images.githubusercontent.com/56520398/97484875-19675f00-1938-11eb-9951-4cffecaa5bdc.png)
 
