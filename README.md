@@ -18,6 +18,10 @@ En cada una de ellas encontraremos los productos por categoria, aqui un ejemplo
 
 ![categoriaproducto](https://user-images.githubusercontent.com/56520398/97484876-19675f00-1938-11eb-84ab-ffa0ca403369.png)
 
+En cada productoo nos encontraremos sus detalles, titulo, descripcion, stock, precio. Luego nos encontraremos un contador para la cantidad que nosotros deseamos, y un boton para sumarlo al carrito 
+
+![producto](https://user-images.githubusercontent.com/56520398/97487442-a4962400-193b-11eb-92f1-404c39134549.png)
+
 En el carrito si no tenemos nada, nos va a aparecer una pantalla en la cual nos invita a seguir comprando y nos redirige al inicio
 
 ![carritovacio](https://user-images.githubusercontent.com/56520398/97484875-19675f00-1938-11eb-9951-4cffecaa5bdc.png)
@@ -33,6 +37,7 @@ En la pantalla del formulario nos pide nuestro nombre, apellido, numero y email.
 Luego de enviar nuestro formulario y validarlo, nos aparecera una pantalla con nuestro numero de orden
 
 ![orden](https://user-images.githubusercontent.com/56520398/97484865-17050500-1938-11eb-8f79-34622ae661a1.png)
+
 
 Bibliografia:<br />
 -https://es.reactjs.org/docs/getting-started.html<br />
