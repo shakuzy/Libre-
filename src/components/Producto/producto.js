@@ -54,7 +54,7 @@ return ( cargar ? <Loading/> : <div className="cproduto"> <Card>
 <Card.Body>
   <Card.Title><h1>{item.title}</h1></Card.Title>
   <Card.Text><h3>{item.description}</h3></Card.Text>
-  <Card.Text><h3>{item.price}</h3></Card.Text>
+  <Card.Text><h3>Precio: ${item.price}</h3></Card.Text>
 
   {item.stock >0 ?<div> <h3 className="card-text">Stock:  {item.stock}</h3> 
     <Button  variant="light" onClick={contador>0 ? () => setContador(contador-1) : () => setContador(contador)}>-</Button>
